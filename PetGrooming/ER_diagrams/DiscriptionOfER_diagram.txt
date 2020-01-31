@@ -1,0 +1,6 @@
+1).  Species and Pet-->1 species has many pets. so  that 1 to many relationship is between  species and pets.
+2).  Owner and Pet--> 1 owner can have many pets so that I have defined here  1 to many realationship between owner and pet.
+3).  Groombooking  and Groomers-->1 groombooking have many groomers 
+4).  Groombooking and owner--> groombooking can do many owners for their pets. so that I  have defined 1 to many relatioship between groombooking to ownres.
+5).  Groombooking and Groomservices-->If Owner can do 1 groombooking for their groom but they can provide many services  to the groom like haircutting,nailtrimming,bathing etc. so that I have applied                  				here  1 booking many services one to many relationship.
+6). Groombooking and pet--> many pets can do groombooking so that I have applied here 1 to many relationship between groombooking to pets. 

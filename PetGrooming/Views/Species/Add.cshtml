@@ -1,0 +1,13 @@
+﻿@model List<PetGrooming.Models.Species>
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>Add</h2>
+<form method="POST" action="/Species/Add">
+    <div>
+        <span>Species Name:<input type="text" name="SpeciesName" dirname="SpeciesName"/></span>
+    </div>
+    <input type="submit" value="Add Species" />
+</form>
+
